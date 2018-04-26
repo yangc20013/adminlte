@@ -1,3 +1,6 @@
+
+采用webpack + vue + adminlte
+
 # easydss-web-src
 
 ## install
